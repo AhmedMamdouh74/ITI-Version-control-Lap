@@ -26,7 +26,7 @@
 ---
 
 
-## 5. How to Delete Branches Locally and Remotely
+## 4. How to Delete Branches Locally and Remotely
 - **Delete Branch Locally:**  
   Run: `git branch -d <branch-name>`
 - **Delete Branch Remotely:**  
